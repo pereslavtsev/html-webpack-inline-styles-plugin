@@ -1,0 +1,31 @@
+{
+  "name": "html-webpack-inline-styles-plugin",
+  "version": "0.0.1",
+  "description": "Inline styles using webpack, HTMLWebpackPlugin, and juice",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pereslavtsev/html-webpack-inline-styles-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "inline",
+    "style",
+    "css",
+    "email"
+  ],
+  "license": "MIT",
+  "homepage": "git@github.com:pereslavtsev/html-webpack-inline-styles-plugin.git",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "css": "^2.2.4",
+    "jsdom": "^13.2.0",
+    "style-parser": "^1.1.1",
+    "unescape": "^1.0.1"
+  }
+}
